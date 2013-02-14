@@ -1,0 +1,32 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set(streams.Bloxorz$, streams.GameDef, streams.Solver, streams.StringParserTerrain)[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set(/home/mathieu/workspace-scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/mathieu/workspace-scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/mathieu/workspace-scala/streams/target/scala-2.9.2/test-classes...[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1b77ef5, interfacing (CompilerInterface) with Scala compiler version 2.9.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/home/mathieu/workspace-scala/streams/target/scala-2.9.2/test-classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/mathieu/jdk1.7.0_05/jre/lib/resources.jar:/home/mathieu/jdk1.7.0_05/jre/lib/rt.jar:/home/mathieu/jdk1.7.0_05/jre/lib/sunrsasign.jar:/home/mathieu/jdk1.7.0_05/jre/lib/jsse.jar:/home/mathieu/jdk1.7.0_05/jre/lib/jce.jar:/home/mathieu/jdk1.7.0_05/jre/lib/charsets.jar:/home/mathieu/jdk1.7.0_05/jre/lib/jfr.jar:/home/mathieu/jdk1.7.0_05/jre/classes:/home/mathieu/.sbt/boot/scala-2.9.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/mathieu/workspace-scala/streams/target/scala-2.9.2/test-classes:/home/mathieu/workspace-scala/streams/target/scala-2.9.2/classes:/home/mathieu/workspace-scala/streams/lib_managed/jars/org.scalatest/scalatest_2.9.2/scalatest_2.9.2-1.8.jar:/home/mathieu/workspace-scala/streams/lib_managed/jars/junit/junit/junit-4.10.jar:/home/mathieu/workspace-scala/streams/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.779487739 s[0m
+[0m[[0mdebug[0m] [0mStep 2 changed sources and immdediate dependencies:[0m
+[0m[[0mdebug[0m] [0m	Set(/home/mathieu/workspace-scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0mdebug[0m] [0mNon-trivial strongly connected components: [0m
+[0m[[0mdebug[0m] [0m	[0m
+[0m[[0mdebug[0m] [0mStep 2 invalidated sources:[0m
+[0m[[0mdebug[0m] [0m	Set(/home/mathieu/workspace-scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m

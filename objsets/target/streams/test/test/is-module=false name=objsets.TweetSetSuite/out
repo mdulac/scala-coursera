@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mTweetSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[33m- filter: on empty set !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- filter: a on set5 !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- filter: 20 on set5 !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[32m- filter: 321 on set[0m[0m
+[0m[[0minfo[0m] [0m[33m- union: set4c and set4d !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- union: with empty set (1) !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- union: with empty set (2) !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[32m- ascending: set5[0m[0m
+[0m[[0minfo[0m] [0m[33m- google vs apple !!! IGNORED !!![0m[0m

@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0m[32mAnagramsSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- wordOccurrences: abcd[0m[0m
+[0m[[0minfo[0m] [0m[32m- wordOccurrences: Robert[0m[0m
+[0m[[0minfo[0m] [0m[32m- sentenceOccurrences: abcd e[0m[0m
+[0m[[0minfo[0m] [0m[32m- sentenceOccurrences: Roberto Carlos[0m[0m
+[0m[[0minfo[0m] [0m[32m- dictionaryByOccurrences.get: eat[0m[0m
+[0m[[0minfo[0m] [0m[32m- word anagrams: married[0m[0m
+[0m[[0minfo[0m] [0m[32m- word anagrams: player[0m[0m
+[0m[[0minfo[0m] [0m[32m- word anagrams: zodiac[0m[0m
+[0m[[0minfo[0m] [0m[32m- subtract: lard - r[0m[0m
+[0m[[0minfo[0m] [0m[32m- jimmy - myc[0m[0m
+[0m[[0minfo[0m] [0m[32m- combinations: [][0m[0m
+[0m[[0minfo[0m] [0m[32m- combinations: abba[0m[0m
+[0m[[0minfo[0m] [0m[33m- combinations: yes man !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- combinations: aaa !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- combinations: linux rulez !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- sentence anagrams: [] !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- sentence anagrams: Lin nil !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[32m- sentence anagrams: my en[0m[0m
+[0m[[0minfo[0m] [0m[33m- sentence anagrams: Linux rulez !!! IGNORED !!![0m[0m

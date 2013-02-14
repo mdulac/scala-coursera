@@ -1,0 +1,28 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/mathieu/workspace-scala/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/home/mathieu/workspace-scala/patmat/target/scala-2.9.2/classes/patmat/Huffman$$anonfun$quickEncode0$1.class)[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/mathieu/workspace-scala/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/mathieu/workspace-scala/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/mathieu/workspace-scala/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/mathieu/workspace-scala/patmat/target/scala-2.9.2/classes...[0m
+[0m[[0mdebug[0m] [0mInterfacing (CompilerInterface) with Scala compiler version 2.9.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/home/mathieu/workspace-scala/patmat/target/scala-2.9.2/classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/mathieu/jdk1.7.0_05/jre/lib/resources.jar:/home/mathieu/jdk1.7.0_05/jre/lib/rt.jar:/home/mathieu/jdk1.7.0_05/jre/lib/sunrsasign.jar:/home/mathieu/jdk1.7.0_05/jre/lib/jsse.jar:/home/mathieu/jdk1.7.0_05/jre/lib/jce.jar:/home/mathieu/jdk1.7.0_05/jre/lib/charsets.jar:/home/mathieu/jdk1.7.0_05/jre/lib/jfr.jar:/home/mathieu/jdk1.7.0_05/jre/classes:/home/mathieu/.sbt/boot/scala-2.9.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/mathieu/workspace-scala/patmat/target/scala-2.9.2/classes[0m
+[0m[[0mdebug[0m] [0m	/home/mathieu/workspace-scala/patmat/src/main/scala/patmat/Huffman.scala[0m
+[0m[[0mdebug[0m] [0m	Invalidated direct: Set()[0m
+[0m[[0mdebug[0m] [0mIncrementally invalidated: Set()[0m
